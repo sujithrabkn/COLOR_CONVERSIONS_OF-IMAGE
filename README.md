@@ -56,7 +56,7 @@ Save the final modified image to your local directory.
    
 
 ### Developed By: SUJITHRA B K N
-### Register Number: 212222230154
+### Register Number: 212222230153
 
 
 ## Program & Output:
